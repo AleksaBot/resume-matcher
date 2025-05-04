@@ -19,3 +19,18 @@ resume-matcher/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+✨ Features (Checkpoint 1)
+✅ Upload resume (PDF) and job list (CSV)
+
+✅ Scrape jobs from Python.org, WeWorkRemotely, and Remote OK
+
+✅ Toggle between uploaded and scraped job sets
+
+✅ NLP-based matching using cosine similarity
+
+✅ Skill word cloud visualization from resume
+
+✅ Top match ranking and exportable results
+
+✅ Robust input validation with user-friendly feedback
